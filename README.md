@@ -29,11 +29,11 @@
       채용 게시판 - 여성 전용 시설 일자리 확인
       
 
- **4. 기술스택**
+   **4. 기술스택**
   
-      Backend - 경민서 유지민
+      Backend(Django) - 경민서 유지민
  
-      Frontend - 김채리 조민영 최윤영
+      Frontend(HTML, CSS, JS) - 김채리 조민영 최윤영
 
-      Design - 곽승주
+      Design(Figma) - 곽승주
   
